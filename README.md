@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Rostyslav 👨‍💻
 
 
 ### My stack and tools
