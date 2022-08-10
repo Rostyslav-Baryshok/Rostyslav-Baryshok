@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/-LinkedIn-blue
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
+
 <!--
 **Rostyslav-Baryshok/Rostyslav-Baryshok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
