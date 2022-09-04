@@ -1,6 +1,6 @@
 ### Hi, I'm Rostyslav 👨‍💻
 
-- 🔭 I’m currently learning on **Front-End development**
+- 🔭 I’m currently doing on **Front-End development**
 - ⚡ Fun fact: **I love what I do**
 
 
