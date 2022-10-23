@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing on **Front-End development**
 - ⚡ Fun fact: **I love what I do**
-- 🔭 Every day **I get better**
+- 😎 Every day **I get better**
 
 
 ### My stack and tools
