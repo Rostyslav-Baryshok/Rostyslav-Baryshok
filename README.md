@@ -1,7 +1,7 @@
 ### Hi, I'm Rostyslav 👨‍💻
 
 - 🔭 I’m currently doing on **Front-End development**
-- ⚡ Fun fact: **I love what I do**
+- ⚡  Fact: **I love what I do**
 - 😎 Every day **I get better**
 - ⬇️ My **best works** is pinned
 
